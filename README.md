@@ -20,7 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glmerve&show_icons=true&locale=en" alt="glmerve" /></p>
 
 
-## 🏰 Tower Defense: Profilimi Savun!
-
-[![Tower Defense](https://github-readme-tower-defense.vercel.app/api?username=glmerve)](https://github.com/glmerve/github-readme-tower-defense)
 
