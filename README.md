@@ -22,5 +22,5 @@
 
 ## 🏰 Tower Defense: Profilimi Savun!
 
-[![Tower Defense](https://github-readme-tower-defense.vercel.app/api?username=YOUR_GITHUB_USERNAME)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-tower-defense)
+[![Tower Defense](https://github-readme-tower-defense.vercel.app/api?username=glmerve)](https://github.com/glmerve/github-readme-tower-defense)
 
