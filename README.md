@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning ****Cyber Security Analysis & SQL****
 
-- 💬 Ask me about ****Web Development & MIS****
-
 - 📫 How to reach me **mervegulsural@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
