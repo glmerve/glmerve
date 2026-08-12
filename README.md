@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Merveg%C3%BCl!%20%F0%9F%91%8B&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" width="100%" />
 
-[![Terminal Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=500&color=39FF14&background=000000&center=false&vCenter=false&multiline=true&width=600&height=280&lines=merve%E3%89%BFkali%3A~%24%A0whoami;Merveg%C3%BCl%A0S%C3%BCral;merve%E3%89%BFkali%3A~%24%A0cat%A0skills.txt;TS%2C%A0JS%2C%A0Python%2C%A0React%2C%A0SQL%2C%A0Docker;merve%E3%89%BFkali%3A~%24%A0.%2Fwelcome.sh;%A0%A0%A0%A0%A0%A0%A0_.%2D%22%22%22%2D._;%A0%A0%A0%A0%A0%A0%2F%A0O%A0%A0%A0O%A0%5C;%A0%A0%A0%A0%A0%7C%A0%A0%A0%A0V%A0%A0%A0%A0%7C;%A0%A0%A0%A0%A0%A0%5C%A0%5C___%2F%A0%2F;%A0%A0%A0%A0%A0%A0%A0%27%2D._.%2D%27;merve%E3%89%BFkali%3A~%24%A0_)](https://git.io/typing-svg)
+[![Terminal Animation](https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=22&pause=500&color=FFB000&background=000000&center=false&vCenter=false&multiline=true&width=600&height=160&lines=C%3A%5C%3E+whoami;Merveg%C3%BCl+S%C3%BCral;C%3A%5C%3E+type+skills.txt;TS%2C+JS%2C+Python%2C+React%2C+SQL%2C+Docker;C%3A%5C%3E+_)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:mervegulsural@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
