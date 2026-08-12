@@ -13,6 +13,7 @@
 ---
 
 👩‍💻 A Little About Me
+
 🎓 I'm studying Management Information Systems (MIS).
 
 💻 I develop full-stack applications using modern web technologies.
