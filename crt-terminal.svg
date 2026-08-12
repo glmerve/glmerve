@@ -58,7 +58,7 @@
     <text x="0" y="20" class="text line l1">C:\&gt; whoami</text>
     <text x="0" y="50" class="text line l2">Mervegül Süral</text>
     <text x="0" y="90" class="text line l3">C:\&gt; type skills.txt</text>
-    <text x="0" y="120" class="text line l4">C, JS, Python, React, SQL, Docker, HTML, CSS</text>
+    <text x="0" y="120" class="text line l4">C, JS, Python, React, SQL, Docker, HTML</text>
     <text x="0" y="160" class="text line l5">C:\&gt; echo Welcome!</text>
     <text x="0" y="190" class="text line l6">Welcome!</text>
     <text x="0" y="230" class="text line l7">C:\&gt; <tspan class="blink">_</tspan></text>
