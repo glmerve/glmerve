@@ -12,15 +12,16 @@
 
 ---
 
-### 👩‍💻 Biraz Benden Bahsedelim
+👩‍💻 A Little About Me
+🎓 I'm studying Management Information Systems (MIS).
 
-🎓 **Yönetim Bilişim Sistemleri (YBS)** okuyorum.  
-💻 Modern web teknolojileriyle **tam yığın (full-stack)** uygulamalar geliştiriyorum.  
-🚀 Sürekli yeni teknolojiler öğrenmeyi, kendimi geliştirmeyi ve açık kaynak projelere katkıda bulunmayı seviyorum.  
+💻 I develop full-stack applications using modern web technologies.
+
+🚀 I love continuously learning new technologies, improving myself, and contributing to open-source projects. 
 
 ---
 
-### 🛠️ Teknolojiler ve Araçlar
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,7 +31,7 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=glmerve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -41,7 +42,7 @@
 
 ---
 
-### 🐍 Kodlama Serüvenim (Snake Animation)
+### 🐍 My Coding Journey
 
 <!-- 
 Not: Yılan animasyonunun çalışması için GitHub Actions üzerinden bir workflow oluşturmanız gerekir. 
@@ -57,8 +58,8 @@ Aşağıdaki linklerdeki "glmerve" kısımlarını kendi kullanıcı adınızla 
 
 ---
 
-### ⚡ Eğlenceli Detay (Fun Fact)
+### ⚡ Fun Fact
 
-> Kod yazarken en iyi arkadaşım her zaman iyi demlenmiş bir **kahvedir** ☕ ve saatlerce süren bir bug'ın çözümünün sadece **eksik bir noktalı virgül** veya **yanlış yazılmış bir değişken** olmasından daha ironik bir şey yoktur! 😅
+There’s a profoundly fragile balance between my Docker 🐳 containers, Prisma ◮ queries, and my mental health. My favorite extreme sport: that 3-second existential dread right after executing git push --force. 📉🔥
 
 </div>
