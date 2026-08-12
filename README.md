@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Merveg%C3%BCl!%20%F0%9F%91%8B&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" width="100%" />
 
-[![Terminal Animation](https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=22&pause=500&color=FFB000&background=000000&center=false&vCenter=false&multiline=true&width=600&height=160&lines=C%3A%5C%3E+whoami;Merveg%C3%BCl+S%C3%BCral;C%3A%5C%3E+type+skills.txt;TS%2C+JS%2C+Python%2C+React%2C+SQL%2C+Docker;C%3A%5C%3E+_)](https://git.io/typing-svg)
+<img src="crt-terminal.svg" alt="Terminal Animation" width="600" />
 
 <p align="center">
   <a href="mailto:mervegulsural@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
