@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Merveg%C3%BCl!%20%F0%9F%91%8B&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Management+Information+Systems+Student;Full-Stack+Web+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Terminal Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&background=000000&center=false&vCenter=false&multiline=true&width=600&height=140&lines=~%2Fglmerve%24+whoami;Merveg%C3%BCl+S%C3%BCral;~%2Fglmerve%24+cat+skills.txt;JS,+TS,+Python,+React,+SQL,+Docker;~%2Fglmerve%24+_)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:mervegulsural@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
