@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Selam,%20Ben%20Merveg%C3%BCl!%20%F0%9F%91%8B&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Merveg%C3%BCl!%20%F0%9F%91%8B&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Y%C3%B6netim+Bili%C3%9Fim+Sistemleri+%C3%96%C4%9Frencisi;Full-Stack+Web+Geli%C5%9Ftirici;A%C3%A7%C4%B1k+Kaynak+Sevdal%C4%B1s%C4%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Management+Information+Systems+Student;Full-Stack+Web+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:mervegulsural@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -12,17 +12,15 @@
 
 ---
 
-👩‍💻 A Little About Me
+### 👩‍💻 A Little About Me
 
-🎓 I'm studying Management Information Systems (MIS).
-
-💻 I develop full-stack applications using modern web technologies.
-
-🚀 I love continuously learning new technologies, improving myself, and contributing to open-source projects. 
+🎓 I'm studying **Management Information Systems (MIS)**.  
+💻 I develop **full-stack** applications with modern web technologies.  
+🚀 I love continuously learning new technologies, improving myself, and contributing to open source projects.  
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=glmerve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -43,11 +41,11 @@
 
 ---
 
-### 🐍 My Coding Journey
+### 🐍 My Coding Journey (Snake Animation)
 
 <!-- 
-Not: Yılan animasyonunun çalışması için GitHub Actions üzerinden bir workflow oluşturmanız gerekir. 
-Aşağıdaki linklerdeki "glmerve" kısımlarını kendi kullanıcı adınızla değiştirmeyi unutmayın!
+Note: To make the snake animation work, you need to create a workflow via GitHub Actions. 
+Don't forget to replace the "glmerve" parts in the links below with your own username!
 -->
 <p align="center">
   <picture>
@@ -61,6 +59,7 @@ Aşağıdaki linklerdeki "glmerve" kısımlarını kendi kullanıcı adınızla 
 
 ### ⚡ Fun Fact
 
-There’s a profoundly fragile balance between my Docker 🐳 containers, Prisma ◮ queries, and my mental health. My favorite extreme sport: that 3-second existential dread right after executing git push --force. 📉🔥
+> My best friend while coding is always a well-brewed **coffee** ☕, and there's nothing more ironic than finding out the solution to a hours-long bug was just a **missing semicolon** or a **misspelled variable**! 😅
 
 </div>
+
